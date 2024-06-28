@@ -1,6 +1,6 @@
-# ADsp
-
 # ADsP(데이터 분석 준전문가) 내용 정리
+
+## 기존의 Notion에 정리해두었던 내용을 업로드하여 읽는데 다소 불편할 수 있습니다.
 
 [데이터의 이해](https://github.com/vinca0224/ADsp/blob/main/ADsP(%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%A4%80%EC%A0%84%EB%AC%B8%EA%B0%80)%20%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
 
